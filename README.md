@@ -1,7 +1,17 @@
 # Useful_Links
 
-
+## Computer Science
 - Essentials of Theoretical Computer Science [PDF](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
+
+## Machine Learning
+
+## Statistics
+
+## Language Learning
+
+
+
+
 
          <table style="width:100%;border:0px;border-spacing:3px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
