@@ -22,10 +22,11 @@
 ## Language Learning
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
-- [Longman](https://www.ldoceonline.com/dictionary/embark)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
 - [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
 - [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
 - [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
 - [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
+- [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
+- [Longman](https://www.ldoceonline.com/dictionary/embark)
 
