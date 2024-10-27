@@ -11,6 +11,7 @@
 - [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
 - [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
 - [Longman](https://www.ldoceonline.com/dictionary/embark)
+- [600 useful verbs in German](https://www.youtube.com/watch?v=jdwafOpToRg)
 
 
 ## Computer Science
@@ -23,7 +24,6 @@
 
 ## Machine Learning
 
-               
 - [Animated Math](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2&ab_channel=3Blue1Brown)       
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=3G5hWM6jqPk) 
 - [Stanford Natural Language Processing](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&ab_channel=StanfordOnline)
@@ -31,4 +31,5 @@
               
 
 ## Statistics
+- [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 
