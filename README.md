@@ -1,21 +1,5 @@
 # Useful_Links
 
-
-## Language Learning
-- [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
-- [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
-- [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
-- [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
-- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
-- [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
-- [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
-- [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
-- [Longman](https://www.ldoceonline.com/dictionary/embark)
-- [600 useful verbs in German](https://www.youtube.com/watch?v=jdwafOpToRg)
-- [500 verbs in German language](https://www.youtube.com/watch?v=CVwGKTjpAjE)
-- [1000 Common German Sentences](https://www.youtube.com/watch?v=eqZxBgU-mYY)
-
-
 ## Computer Science
 - [Essentials of Theoretical Computer Science](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
 - [Turing Machine](https://www.youtube.com/watch?v=PvLaPKPzq2I&ab_channel=NesoAcademy)
@@ -35,6 +19,21 @@
 - [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 - [Prior and posterior predictive distributions](https://www.youtube.com/watch?v=R9NQY2Hyl14)
 - [Probability Theory](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+
+- ## Language Learning
+- [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
+- [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
+- [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
+- [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
+- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
+- [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
+- [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
+- [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
+- [Longman](https://www.ldoceonline.com/dictionary/embark)
+- [600 useful verbs in German](https://www.youtube.com/watch?v=jdwafOpToRg)
+- [500 verbs in German language](https://www.youtube.com/watch?v=CVwGKTjpAjE)
+- [1000 Common German Sentences](https://www.youtube.com/watch?v=eqZxBgU-mYY)
+
 
 ## Books
 - [A Field Guide to Getting Lost](https://www.amazon.de/-/en/Rebecca-Solnit/dp/0143037242)
