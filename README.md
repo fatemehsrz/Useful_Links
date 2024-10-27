@@ -12,6 +12,7 @@
 - [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
 - [Longman](https://www.ldoceonline.com/dictionary/embark)
 - [600 useful verbs in German](https://www.youtube.com/watch?v=jdwafOpToRg)
+- [500 verbs in German language](https://www.youtube.com/watch?v=CVwGKTjpAjE)
 - [1000 Common German Sentences](https://www.youtube.com/watch?v=eqZxBgU-mYY)
 
 
