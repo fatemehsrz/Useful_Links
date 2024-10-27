@@ -27,6 +27,6 @@
 - [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
 - [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
 - [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
-- [Merriam Webster](https://www.merriam-webster.com/thesaurus)
+- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
 
   
