@@ -1,7 +1,7 @@
 # Useful_Links
 
 
-- Theoretical Computer Science [PDF](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
+- Essentials of Theoretical Computer Science [PDF](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
 
          <table style="width:100%;border:0px;border-spacing:3px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
