@@ -1,5 +1,18 @@
 # Useful_Links
 
+
+## Language Learning
+- [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
+- [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
+- [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
+- [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
+- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
+- [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
+- [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
+- [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
+- [Longman](https://www.ldoceonline.com/dictionary/embark)
+
+
 ## Computer Science
 - [Essentials of Theoretical Computer Science](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
 - [Turing Machine](https://www.youtube.com/watch?v=PvLaPKPzq2I&ab_channel=NesoAcademy)
@@ -18,15 +31,4 @@
               
 
 ## Statistics
-
-## Language Learning
-- [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
-- [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
-- [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
-- [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
-- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
-- [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
-- [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
-- [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
-- [Longman](https://www.ldoceonline.com/dictionary/embark)
 
