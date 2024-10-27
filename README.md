@@ -1,5 +1,8 @@
 # Useful_Links
 
+
+[Theoretical Computer Science](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
+
          <table style="width:100%;border:0px;border-spacing:3px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
             <td style="padding:20px;width:100%; vertical-align:left; text-align:left">
