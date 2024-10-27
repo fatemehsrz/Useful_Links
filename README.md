@@ -2,8 +2,8 @@
 
 ## Computer Science
 - Essentials of Theoretical Computer Science [PDF](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
-- Turing Machine [Video]([http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf](https://www.youtube.com/watch?v=PvLaPKPzq2I&ab_channel=NesoAcademy))
-- Context Free Grammar & Context Free Language [Video]([http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf](https://www.youtube.com/watch?v=5_tfVe7ED3g&ab_channel=NesoAcademy))
+- Turing Machine [Video]([http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf](https://www.youtube.com/watch?v=PvLaPKPzq2I&ab_channel=NesoAcademy)
+- Context Free Grammar & Context Free Language [Video]([http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf](https://www.youtube.com/watch?v=5_tfVe7ED3g&ab_channel=NesoAcademy)
 - [PDF](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
 
 ## Machine Learning
