@@ -20,7 +20,7 @@
 - [Prior and posterior predictive distributions](https://www.youtube.com/watch?v=R9NQY2Hyl14)
 - [Probability Theory](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
 
-- ## Language Learning
+## Language Learning
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
