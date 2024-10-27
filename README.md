@@ -33,3 +33,9 @@
 ## Statistics
 - [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 
+## Books
+- [A Field Guide to Getting Lost](https://www.amazon.de/-/en/Rebecca-Solnit/dp/0143037242)
+- [Yes to Life: In Spite of Everything](https://www.amazon.de/-/en/Viktor-Frankl/dp/080700555X)
+- [Levels of Life: Julian Barnes](https://www.amazon.de/-/en/Julian-Barnes/dp/0099584530)
+- [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](https://caseerblog.com/wp-content/uploads/2024/03/Randall-Munroe-What-If__-Serious-Scientific-Answers-to-Absurd-Hypothetical-Questions-Houghton-Mifflin-Harcourt-2014.pdf)
+
