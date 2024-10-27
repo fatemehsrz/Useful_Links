@@ -24,7 +24,7 @@
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
 - [Longman](https://www.ldoceonline.com/dictionary/embark)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
-- [Reverso](ttps://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
+- [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
 - [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
 - [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
 - [Merriam Webster](https://www.merriam-webster.com/thesaurus)
