@@ -25,8 +25,7 @@
 - [Longman](https://www.ldoceonline.com/dictionary/embark)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
 - [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
+- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
 - [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
 - [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
-- [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
 
-  
