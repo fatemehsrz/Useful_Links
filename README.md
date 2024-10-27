@@ -23,7 +23,7 @@
 - [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
 
 ## Machine Learning
-
+- [Gradient Descent with Momentum](https://www.youtube.com/watch?v=iudXf5n_3ro)
 - [Animated Math](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2&ab_channel=3Blue1Brown)       
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=3G5hWM6jqPk) 
 - [Stanford Natural Language Processing](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&ab_channel=StanfordOnline)
