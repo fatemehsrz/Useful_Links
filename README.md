@@ -6,6 +6,7 @@
 - [Context Free Grammar & Context Free Language](https://www.youtube.com/watch?v=5_tfVe7ED3g&ab_channel=NesoAcademy)
 - [Matrix Theory](https://sv.20file.org/up1/1179_0.pdf)
 - [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
+- [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 ## Machine Learning
 - [Gradient Descent with Momentum](https://www.youtube.com/watch?v=iudXf5n_3ro)
@@ -13,7 +14,6 @@
 - [Introduction to Deep Learning](https://www.youtube.com/watch?v=3G5hWM6jqPk) 
 - [Stanford Natural Language Processing](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&ab_channel=StanfordOnline)
 - [Machine Learning TV](https://www.youtube.com/c/MachineLearningTV)
-              
 
 ## Statistics
 - [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
