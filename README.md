@@ -16,6 +16,7 @@
 - [Machine Learning TV](https://www.youtube.com/c/MachineLearningTV)
 
 ## Statistics
+- [Binomial Distribution](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
 - [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 - [Prior and posterior predictive distributions](https://www.youtube.com/watch?v=R9NQY2Hyl14)
 - [Probability Theory](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
