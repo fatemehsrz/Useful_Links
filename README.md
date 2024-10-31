@@ -8,6 +8,9 @@
 - [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
 - [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
+## Python 
+  - [Enum Types In Python](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
+
 ## Machine Learning
 - [Gradient Descent with Momentum](https://www.youtube.com/watch?v=iudXf5n_3ro)
 - [Gradient descent in neural networks](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2&ab_channel=3Blue1Brown)       
@@ -20,6 +23,7 @@
 - [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
 - [Prior and posterior predictive distributions](https://www.youtube.com/watch?v=R9NQY2Hyl14)
 - [Probability Theory](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+
 
 ## Language Learning
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
