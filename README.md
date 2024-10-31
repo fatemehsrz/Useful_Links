@@ -11,6 +11,7 @@
 ## Python 
   - [Enum Types](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
   - [Value Error](https://www.youtube.com/shorts/Yo6KSHdImkQ)
+  - [How To Catch Multiple Exceptions On One Line](https://www.youtube.com/shorts/PZmoff2PvmY)
 
 ## Machine Learning
 - [Gradient Descent with Momentum](https://www.youtube.com/watch?v=iudXf5n_3ro)
