@@ -9,14 +9,15 @@
 - [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 ## Python 
-  - [Enum Types](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
-  - [Value Error](https://www.youtube.com/shorts/Yo6KSHdImkQ)
-  - [How To Catch Multiple Exceptions On One Line](https://www.youtube.com/shorts/PZmoff2PvmY)
-  - [Zip Longest](https://www.youtube.com/shorts/022E7JVDMUo)
-  - [Matrix Multiplication](https://www.youtube.com/shorts/NmRLBhFsG5s)
-  - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
-  - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
-  - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
+- [Pre-Commit Hooks](https://www.youtube.com/watch?v=Wmw-VGSjSNg&ab_channel=HaydnMurray)
+- [Enum Types](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
+- [Value Error](https://www.youtube.com/shorts/Yo6KSHdImkQ)
+- [How To Catch Multiple Exceptions On One Line](https://www.youtube.com/shorts/PZmoff2PvmY)
+- [Zip Longest](https://www.youtube.com/shorts/022E7JVDMUo)
+- [Matrix Multiplication](https://www.youtube.com/shorts/NmRLBhFsG5s)
+- [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
+- [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
+- [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
   
 
 ## Machine Learning
