@@ -16,6 +16,7 @@
   - [Matrix Multiplication](https://www.youtube.com/shorts/NmRLBhFsG5s)
   - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
   - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
+  - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
   
 
 ## Machine Learning
