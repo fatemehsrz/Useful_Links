@@ -15,6 +15,7 @@
   - [Zip Longest](https://www.youtube.com/shorts/022E7JVDMUo)
   - [Matrix Multiplication](https://www.youtube.com/shorts/NmRLBhFsG5s)
   - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
+  - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
   
 
 ## Machine Learning
