@@ -18,7 +18,9 @@
 - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
 - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
 - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
-  
+
+## Latex
+- [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
 
 ## Machine Learning
 - [Gradient Descent with Momentum](https://www.youtube.com/watch?v=iudXf5n_3ro)
