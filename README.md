@@ -50,6 +50,7 @@
 - [600 useful verbs in German](https://www.youtube.com/watch?v=jdwafOpToRg)
 - [500 verbs in German language](https://www.youtube.com/watch?v=CVwGKTjpAjE)
 - [1000 Common German Sentences](https://www.youtube.com/watch?v=eqZxBgU-mYY)
+- [Dative Verbs](https://projektdeutsch2.wordpress.com/wp-content/uploads/2012/07/verben-mit-dativ_liste2.pdf)
 
 
 ## Books
