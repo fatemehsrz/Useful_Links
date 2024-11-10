@@ -10,6 +10,7 @@
 
 ## Python 
 - [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
+- [SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
 - [Pre-Commit Hooks](https://www.youtube.com/watch?v=Wmw-VGSjSNg&ab_channel=HaydnMurray)
 - [Enum Types](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
 - [Value Error](https://www.youtube.com/shorts/Yo6KSHdImkQ)
