@@ -31,6 +31,9 @@
 - [Stanford Natural Language Processing](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2&ab_channel=StanfordOnline)
 - [Machine Learning TV](https://www.youtube.com/c/MachineLearningTV)
 
+## SQL
+- [Mysql](https://www.w3schools.com/sql/func_mysql_length.asp)
+
 ## Statistics
 - [Binomial Distribution](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
 - [Bernoulli Distribution](https://www.youtube.com/watch?v=bT1p5tJwn_0)
