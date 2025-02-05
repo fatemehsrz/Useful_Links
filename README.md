@@ -20,6 +20,7 @@
 - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
 - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
 - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
+- [Airflow](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
 
 ## Latex
 - [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
