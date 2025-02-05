@@ -21,6 +21,7 @@
 - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
 - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
 - [Airflow](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
+- [ETL Data Pipeline using Python and SQL](https://www.youtube.com/watch?v=qdOGDF6xLGY)
 
 ## Latex
 - [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
