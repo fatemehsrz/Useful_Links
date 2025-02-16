@@ -24,6 +24,9 @@
 - [ETL Data Pipeline using Python and SQL](https://www.youtube.com/watch?v=qdOGDF6xLGY)
 - [ Azure DevOps Pipelines](https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5)
 
+## LLMs
+-[Langgraph](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
+
 ## Latex
 - [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
 
