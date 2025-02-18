@@ -1,13 +1,5 @@
 # Useful_Links
 
-## Computer Science
-- [Essentials of Theoretical Computer Science](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
-- [Turing Machine](https://www.youtube.com/watch?v=PvLaPKPzq2I&ab_channel=NesoAcademy)
-- [Context Free Grammar & Context Free Language](https://www.youtube.com/watch?v=5_tfVe7ED3g&ab_channel=NesoAcademy)
-- [Matrix Theory](https://sv.20file.org/up1/1179_0.pdf)
-- [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
-- [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
-
 ## Python 
 - [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
 - [SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
@@ -48,6 +40,13 @@
 - [Prior and posterior predictive distributions](https://www.youtube.com/watch?v=R9NQY2Hyl14)
 - [Probability Theory](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
 
+## Computer Science
+- [Essentials of Theoretical Computer Science](http://cse.ucdenver.edu/~cscialtman/foundation/Essentials%20of%20Theoretical%20Computer%20Science.pdf)
+- [Turing Machine](https://www.youtube.com/watch?v=PvLaPKPzq2I&ab_channel=NesoAcademy)
+- [Context Free Grammar & Context Free Language](https://www.youtube.com/watch?v=5_tfVe7ED3g&ab_channel=NesoAcademy)
+- [Matrix Theory](https://sv.20file.org/up1/1179_0.pdf)
+- [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
+- [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 ## Language Learning
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
