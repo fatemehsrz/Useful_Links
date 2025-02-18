@@ -19,6 +19,7 @@
 ## LLMs
 - [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
 - [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
+- [Langgraph tutorial](https://github.com/fatemehsrz/LangGraphTutorial)
 
 ## Latex
 -  [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
