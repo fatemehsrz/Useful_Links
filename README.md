@@ -25,10 +25,12 @@
 - [ Azure DevOps Pipelines](https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5)
 
 ## LLMs
--[Langgraph](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
+- [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
+- [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
 
 ## Latex
-- [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
+-  [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
+
 
 ## Machine Learning
 - [Gradient Descent with Momentum](https://www.youtube.com/watch?v=iudXf5n_3ro)
