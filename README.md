@@ -1,13 +1,5 @@
 # Useful_Links
 
-## LLMs
-- [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
-- [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
-- [Langgraph tutorial](https://github.com/fatemehsrz/LangGraphTutorial)
-- [cloud AI engineering roadmap](https://www.youtube.com/watch?v=a4Qt_OymP1w)
-- [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
-- [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
-
   ## Python 
 - [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
 - [SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
@@ -24,7 +16,14 @@
 - [ETL Data Pipeline using Python and SQL](https://www.youtube.com/watch?v=qdOGDF6xLGY)
 - [ Azure DevOps Pipelines](https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5)
 
-
+## LLMs
+- [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
+- [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
+- [Langgraph tutorial](https://github.com/fatemehsrz/LangGraphTutorial)
+- [cloud AI engineering roadmap](https://www.youtube.com/watch?v=a4Qt_OymP1w)
+- [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
+- [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
+  
 ## Latex
 -  [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
 
