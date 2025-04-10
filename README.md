@@ -23,6 +23,7 @@
 - [cloud AI engineering roadmap](https://www.youtube.com/watch?v=a4Qt_OymP1w)
 - [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
 - [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
+- [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
   
 ## Latex
 -  [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
