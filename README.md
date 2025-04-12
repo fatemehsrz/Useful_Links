@@ -26,6 +26,7 @@
 - [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
 - [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
 - [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
+- [Chat Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
   
 ## Latex
 -  [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
