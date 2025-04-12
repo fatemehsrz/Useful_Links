@@ -25,6 +25,7 @@
 - [Clean Text](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/Open-Source-RAG-GEMMA/src/utils/chatbot.py)
 - [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
 - [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
+- [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
   
 ## Latex
 -  [Greek Letters](https://cs.brown.edu/about/system/managed/latex/doc/symbols.pdf)
