@@ -27,7 +27,7 @@
 - [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
 - [Langfuse](https://www.youtube.com/watch?v=epnPfe5am3I)   [[GitHub](https://github.com/daveebbelaar/langfuse-self-hosted)]
 - [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
-- [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [[Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)]
+- [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [[Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)] [[Github](https://github.com/SaM-92/mcp_autogen_sse_stdio/blob/main/mcp_autogen_sse_stdio/main.py)]
 - [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [[Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)]
   
 ## Data Engineering
