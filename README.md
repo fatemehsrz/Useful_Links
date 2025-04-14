@@ -12,9 +12,7 @@
 - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
 - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
 - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
-- [Airflow](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
-- [ETL Data Pipeline using Python and SQL](https://www.youtube.com/watch?v=qdOGDF6xLGY)
-- [Azure DevOps Pipelines](https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5)
+
 
 ## LLMs
 - [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
@@ -30,6 +28,11 @@
 - [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
 - [Chat Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
 - [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)
+  
+## Data Engineering
+- [Airflow](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
+- [ETL Data Pipeline using Python and SQL](https://www.youtube.com/watch?v=qdOGDF6xLGY)
+- [Azure DevOps Pipelines](https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5)
 
   
 ## Latex
