@@ -90,7 +90,7 @@
 - [Dative Verbs](https://projektdeutsch2.wordpress.com/wp-content/uploads/2012/07/verben-mit-dativ_liste2.pdf)
 - [Easyling](https://www.youtube.com/@Easyling2/shorts)
 ## Style
--[Modern](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/QgrcJHsbjqWQJnFsCdwRZJkhQfFgJQnkfZg)
+- [Modern](https://www.youtube.com/shorts/xhRcolLABf4)
 ## Books
 - [A Field Guide to Getting Lost](https://www.amazon.de/-/en/Rebecca-Solnit/dp/0143037242)
 - [Yes to Life: In Spite of Everything](https://www.amazon.de/-/en/Viktor-Frankl/dp/080700555X)
