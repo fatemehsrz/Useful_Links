@@ -26,10 +26,10 @@
 - [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
 - [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
 - [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
-- [Langfuse](https://www.youtube.com/watch?v=epnPfe5am3I) with code on [GitHub](https://github.com/daveebbelaar/langfuse-self-hosted)
+- [Langfuse](https://www.youtube.com/watch?v=epnPfe5am3I) ==> [GitHub](https://github.com/daveebbelaar/langfuse-self-hosted)
 - [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
 - [Chat Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
-- [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai) with code on [Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)
+- [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai) ==> [Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)
 
   
 ## Latex
