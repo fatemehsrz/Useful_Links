@@ -22,11 +22,11 @@
 - [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
 - [Clean Text](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/Open-Source-RAG-GEMMA/src/utils/chatbot.py)
 - [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
+- [Langchain Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
 - [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
 - [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
 - [Langfuse](https://www.youtube.com/watch?v=epnPfe5am3I)   [[GitHub](https://github.com/daveebbelaar/langfuse-self-hosted)]
 - [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
-- [Langchain Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
 - [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [[Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)]
 - [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [[Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)]
   
