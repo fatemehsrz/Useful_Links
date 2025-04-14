@@ -28,7 +28,7 @@
 - [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
 - [Langchain Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
 - [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)
-- [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)   [Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)
+- [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)
   
 ## Data Engineering
 - [Airflow](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
