@@ -64,6 +64,10 @@
 - [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 ## Language Learning
+- [Lingster Academy](https://www.youtube.com/@LingsterAcademy/shorts)
+- [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
+- [Deutsch Dialoge - Humorvolles Deutschlernen](https://www.youtube.com/@deutschgeschichten1/shorts)
+- [Learn German A1-C2 level](https://www.youtube.com/@LearnGermanA1-C2/shorts)
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
