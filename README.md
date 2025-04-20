@@ -1,5 +1,3 @@
-# Useful_Links
-
 ## Language Learning
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/shorts)
