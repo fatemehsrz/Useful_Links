@@ -69,6 +69,8 @@
 - [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 ## Language Learning
+- [Super German](https://www.youtube.com/@SuperGermanonline)
+- [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/shorts)
 - [reverso context](https://context.reverso.net/%C3%BCbersetzung/)
 - [Learn German A1-C2 level](https://www.youtube.com/@LearnGermanA1-C2/shorts)
 - [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
