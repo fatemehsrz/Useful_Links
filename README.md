@@ -41,6 +41,8 @@
 - [Lingster Academy](https://www.youtube.com/@LingsterAcademy/shorts)
 - [English 4 Everyone](https://www.youtube.com/@English4everyone-official/shorts)
 - [Letstalk](https://www.youtube.com/@letstalk/shorts)
+- [English by Giovana](https://www.youtube.com/@englishbygiovana/shorts)
+- [Kate English](https://www.youtube.com/@KateEnglish/shorts)
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
