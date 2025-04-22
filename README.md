@@ -30,7 +30,7 @@
 
 
 ## Language Learning
-- [Deutsch_eins](https://www.youtube.com/@deutsch_eins/shorts)
+- [Deutsch Eins](https://www.youtube.com/@deutsch_eins/shorts)
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [Almani ba Neda](https://www.youtube.com/@almanibaneda/shorts)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/featured)
