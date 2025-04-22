@@ -1,5 +1,3 @@
-
-
 ## LLMs
 - [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
 - [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
@@ -17,7 +15,7 @@
 - [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [[Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)]
 - [MCP FASTAPI Github](https://github.com/tadata-org/fastapi_mcp)
 
-  ## Python 
+## Python 
 - [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
 - [SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
 - [Pre-Commit Hooks](https://www.youtube.com/watch?v=Wmw-VGSjSNg&ab_channel=HaydnMurray)
@@ -34,6 +32,7 @@
 ## Language Learning
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [reverso context](https://context.reverso.net/%C3%BCbersetzung/)
+- [Almani ba Neda](https://www.youtube.com/@almanibaneda/shorts)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/featured)
 - [Learn German A1-C2 level](https://www.youtube.com/@LearnGermanA1-C2/shorts)
 - [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
