@@ -30,6 +30,7 @@
 
 
 ## Language Learning
+- [Deutsch_eins](https://www.youtube.com/@deutsch_eins/shorts)
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [Almani ba Neda](https://www.youtube.com/@almanibaneda/shorts)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/featured)
@@ -39,6 +40,7 @@
 - [Deutsch üben mit Spass](https://www.youtube.com/@Deutsch%C3%BCbenmitSpass/shorts)
 - [Lingster Academy](https://www.youtube.com/@LingsterAcademy/shorts)
 - [English 4 Everyone](https://www.youtube.com/@English4everyone-official/shorts)
+- [Letstalk](https://www.youtube.com/@letstalk/shorts)
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
@@ -55,7 +57,7 @@
 - [Dative Verbs](https://projektdeutsch2.wordpress.com/wp-content/uploads/2012/07/verben-mit-dativ_liste2.pdf)
 - [Easyling](https://www.youtube.com/@Easyling2/shorts)
 - [Präpositionen mit Genitiv](https://deutsch-mit-anna.de/lektion/praepositionen-mit-genitiv/)
-- 
+
 
   
 ## Data Engineering
