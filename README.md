@@ -1,3 +1,36 @@
+
+
+## LLMs
+- [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
+- [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
+- [Langgraph tutorial](https://github.com/fatemehsrz/LangGraphTutorial)
+- [cloud AI engineering roadmap](https://www.youtube.com/watch?v=a4Qt_OymP1w)
+- [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
+- [Clean Text](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/Open-Source-RAG-GEMMA/src/utils/chatbot.py)
+- [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
+- [Langchain Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
+- [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
+- [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
+- [Langfuse](https://www.youtube.com/watch?v=epnPfe5am3I)   [[GitHub](https://github.com/daveebbelaar/langfuse-self-hosted)]
+- [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
+- [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [[Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)] [[Github](https://github.com/SaM-92/mcp_autogen_sse_stdio/blob/main/mcp_autogen_sse_stdio/main.py)]
+- [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [[Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)]
+- [MCP FASTAPI Github](https://github.com/tadata-org/fastapi_mcp)
+
+  ## Python 
+- [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
+- [SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
+- [Pre-Commit Hooks](https://www.youtube.com/watch?v=Wmw-VGSjSNg&ab_channel=HaydnMurray)
+- [Enum Types](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
+- [Value Error](https://www.youtube.com/shorts/Yo6KSHdImkQ)
+- [How To Catch Multiple Exceptions On One Line](https://www.youtube.com/shorts/PZmoff2PvmY)
+- [Zip Longest](https://www.youtube.com/shorts/022E7JVDMUo)
+- [Matrix Multiplication](https://www.youtube.com/shorts/NmRLBhFsG5s)
+- [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
+- [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
+- [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
+
+
 ## Language Learning
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [reverso context](https://context.reverso.net/%C3%BCbersetzung/)
@@ -24,35 +57,7 @@
 - [Easyling](https://www.youtube.com/@Easyling2/shorts)
 - [Präpositionen mit Genitiv](https://deutsch-mit-anna.de/lektion/praepositionen-mit-genitiv/)
 - 
-  ## Python 
-- [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
-- [SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/plots/beeswarm.html)
-- [Pre-Commit Hooks](https://www.youtube.com/watch?v=Wmw-VGSjSNg&ab_channel=HaydnMurray)
-- [Enum Types](https://www.youtube.com/watch?v=AMTZG5W3rKQ)
-- [Value Error](https://www.youtube.com/shorts/Yo6KSHdImkQ)
-- [How To Catch Multiple Exceptions On One Line](https://www.youtube.com/shorts/PZmoff2PvmY)
-- [Zip Longest](https://www.youtube.com/shorts/022E7JVDMUo)
-- [Matrix Multiplication](https://www.youtube.com/shorts/NmRLBhFsG5s)
-- [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
-- [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
-- [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
 
-
-## LLMs
-- [Langgraph video](https://www.youtube.com/watch?v=gcRSQblTwPw&ab_channel=SunnySavita)
-- [Langgraph code](https://github.com/sunnysavita10/langgraph-end-to-end/tree/main)
-- [Langgraph tutorial](https://github.com/fatemehsrz/LangGraphTutorial)
-- [cloud AI engineering roadmap](https://www.youtube.com/watch?v=a4Qt_OymP1w)
-- [LLM-Zero-to-Hundred](https://github.com/Farzad-R/LLM-Zero-to-Hundred)
-- [Clean Text](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/Open-Source-RAG-GEMMA/src/utils/chatbot.py)
-- [Ollama chatbot](https://github.com/laxmimerit/ollama-chatbot/tree/main)
-- [Langchain Google GenerativeAI](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)
-- [Generative_AI Tutorials](https://github.com/AarohiSingla/Generative_AI)
-- [Langfuse](https://www.youtube.com/watch?v=fIQIfIK6v0o)
-- [Langfuse](https://www.youtube.com/watch?v=epnPfe5am3I)   [[GitHub](https://github.com/daveebbelaar/langfuse-self-hosted)]
-- [Langfuse](https://www.youtube.com/watch?v=rHfME8KDmIw)
-- [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [[Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)] [[Github](https://github.com/SaM-92/mcp_autogen_sse_stdio/blob/main/mcp_autogen_sse_stdio/main.py)]
-- [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [[Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)]
   
 ## Data Engineering
 - [Airflow](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)
