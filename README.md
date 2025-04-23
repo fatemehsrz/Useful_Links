@@ -38,6 +38,7 @@
 - [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
 - [Deutsch Dialoge - Humorvolles Deutschlernen](https://www.youtube.com/@DeutschDialogeLernen)
 - [Deutsch üben mit Spass](https://www.youtube.com/@Deutsch%C3%BCbenmitSpass/shorts)
+- [Deutsch mit Spass](https://www.youtube.com/@deutschmitspass/shorts) 
 - [Lingster Academy](https://www.youtube.com/@LingsterAcademy/shorts)
 - [English 4 Everyone](https://www.youtube.com/@English4everyone-official/shorts)
 - [Letstalk](https://www.youtube.com/@letstalk/shorts)
