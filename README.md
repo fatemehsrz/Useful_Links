@@ -69,6 +69,7 @@
 - [ETL Data Pipeline using Python and SQL](https://www.youtube.com/watch?v=qdOGDF6xLGY)
 - [Azure DevOps Pipelines](https://www.youtube.com/watch?v=3Nv-FzzrqYU&list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD&index=5)
 - [Azure ML](https://github.com/SaM-92/Azure_ML_Energy_Predict)
+- [GitOps](https://www.youtube.com/watch?v=f5EpcWp0THw&t=314s&pp=ygUGZ2l0b3Bz)
 
   
 ## Latex
