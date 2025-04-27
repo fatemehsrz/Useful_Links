@@ -34,6 +34,7 @@
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [Almani ba Neda](https://www.youtube.com/@almanibaneda/shorts)
 - [Zaban Almani](https://www.youtube.com/@ZabanAlmani/shorts)
+- [Deutsch mit Dana](https://www.youtube.com/@deutsch_mit_dana/shorts)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/featured)
 - [Learn German A1-C2 level](https://www.youtube.com/@LearnGermanA1-C2/shorts)
 - [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
