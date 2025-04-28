@@ -30,11 +30,12 @@
 
 
 ## Language Learning
-- [Deutsch Eins](https://www.youtube.com/@deutsch_eins/shorts)
-- [Super German](https://www.youtube.com/@SuperGermanonline)
+
 - [Deutsch mit Dana](https://www.youtube.com/@deutsch_mit_dana/shorts)
 - [Learn German Fast](https://www.youtube.com/shorts/o1_8X10G_lk)
 - [MT languages](https://www.youtube.com/@MTlanguage/shorts)
+- [Deutsch Eins](https://www.youtube.com/@deutsch_eins/shorts)
+- [Super German](https://www.youtube.com/@SuperGermanonline)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/featured)
 - [Learn German A1-C2 level](https://www.youtube.com/@LearnGermanA1-C2/shorts)
 - [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
