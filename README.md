@@ -14,7 +14,7 @@
 - [MCP Server](https://www.youtube.com/watch?v=Ek8JHgZtmcI&ab_channel=AlejandroAO-Software%26Ai)    [[Github](https://github.com/alejandro-ao/mcp-server-example/blob/master/main.py)] [[Github](https://github.com/SaM-92/mcp_autogen_sse_stdio/blob/main/mcp_autogen_sse_stdio/main.py)]
 - [Agentic AI](https://www.youtube.com/watch?v=Kk4ukdWqKPM&ab_channel=KrishNaik)    [[Github](https://github.com/krishnaik06/Agentic-AI-Application/blob/main/Financial%20AI%20analyst/financial_agent.py)]
 - [MCP FASTAPI Github](https://github.com/tadata-org/fastapi_mcp)
-- [Prompt engineering](https://www.youtube.com/watch?v=oS_pHPLJ5Gw) [[PDF](https://developer.nbg.gr/sites/default/files/PromptEngineeringF.pdf)]
+- [Prompt engineering](https://www.youtube.com/watch?v=oS_pHPLJ5Gw) [[PDF](https://developer.nbg.gr/sites/default/files/PromptEngineeringF.pdf)] [[PDF](https://www.gptaiflow.tech/assets/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf)]
 
 ## Python 
 - [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
