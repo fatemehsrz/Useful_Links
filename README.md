@@ -16,6 +16,7 @@
 - [MCP FASTAPI Github](https://github.com/tadata-org/fastapi_mcp)
 - [Prompt engineering](https://www.youtube.com/watch?v=oS_pHPLJ5Gw) [[PDF](https://developer.nbg.gr/sites/default/files/PromptEngineeringF.pdf)] [[PDF](https://www.gptaiflow.tech/assets/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf)]
 - [Extract Tables and Images](https://unstract.com/blog/extract-tables-from-pdf-python/)
+- [Azure CLI](https://stackoverflow.com/questions/57989198/the-term-az-is-not-recognized-as-the-name-of-a-cmdlet-function-script-file)
 
 ## Python 
 - [Pandas DF plot](https://jonathansoma.com/lede/algorithms-2017/classes/fuzziness-matplotlib/how-pandas-uses-matplotlib-plus-figures-axes-and-subplots/)
