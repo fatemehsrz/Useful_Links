@@ -49,6 +49,7 @@
 - [Zaban Almani](https://www.youtube.com/@ZabanAlmani/shorts)
 - [Lingster Academy](https://www.youtube.com/@LingsterAcademy/shorts)
 - [English 4 Everyone](https://www.youtube.com/@English4everyone-official/shorts)
+- [Starvicks5](https://www.youtube.com/@starvicks5)
 - [Letstalk](https://www.youtube.com/@letstalk/shorts)
 - [English by Giovana](https://www.youtube.com/@englishbygiovana/shorts)
 - [Kate English](https://www.youtube.com/@KateEnglish/shorts)
