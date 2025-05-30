@@ -41,6 +41,7 @@
 - [Super German](https://www.youtube.com/@SuperGermanonline)
 - [Dein Sprachcoach](https://www.youtube.com/@DeinSprachcoach/featured)
 - [Learn German A1-C2 level](https://www.youtube.com/@LearnGermanA1-C2/shorts)
+- [Deutsche Alltagsgespräche](https://www.youtube.com/@DeutscheAlltagsgespr%C3%A4che)
 - [Deutsch Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
 - [Deutsch Dialoge - Humorvolles Deutschlernen](https://www.youtube.com/@DeutschDialogeLernen)
 - [Deutsch üben mit Spass](https://www.youtube.com/@Deutsch%C3%BCbenmitSpass/shorts)
