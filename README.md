@@ -50,6 +50,7 @@
 - [Zaban Almani](https://www.youtube.com/@ZabanAlmani/shorts)
 - [Lingster Academy](https://www.youtube.com/@LingsterAcademy/shorts)
 - [English 4 Everyone](https://www.youtube.com/@English4everyone-official/shorts)
+- [TrainUp Academy](https://www.youtube.com/@trainup.academy/shorts)
 - [Starvicks5](https://www.youtube.com/@starvicks5)
 - [Letstalk](https://www.youtube.com/@letstalk/shorts)
 - [English by Giovana](https://www.youtube.com/@englishbygiovana/shorts)
