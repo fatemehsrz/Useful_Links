@@ -115,7 +115,7 @@
 
   
 ## Style
-- [Modern](https://www.youtube.com/shorts/xhRcolLABf4)
+- [Modern Home](https://www.youtube.com/shorts/xhRcolLABf4)
 - [Hair](https://www.youtube.com/shorts/azhsgAk16qg)
   
 ## Books
