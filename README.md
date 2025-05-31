@@ -116,6 +116,7 @@
   
 ## Style
 - [Modern](https://www.youtube.com/shorts/xhRcolLABf4)
+- [Hair](https://www.youtube.com/shorts/azhsgAk16qg)
   
 ## Books
 - [A Field Guide to Getting Lost](https://www.amazon.de/-/en/Rebecca-Solnit/dp/0143037242)
