@@ -117,6 +117,7 @@
 ## Style
 - [Modern Home](https://www.youtube.com/shorts/xhRcolLABf4)
 - [Hair](https://www.youtube.com/shorts/azhsgAk16qg)
+- [Iranian Music](https://www.youtube.com/shorts/MNgRcw5t3uc)
   
 ## Books
 - [A Field Guide to Getting Lost](https://www.amazon.de/-/en/Rebecca-Solnit/dp/0143037242)
