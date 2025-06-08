@@ -61,6 +61,7 @@
 - [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
 - [reverso context](https://context.reverso.net/%C3%BCbersetzung/)
 - [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
+- [English Adjektives](https://www.merriam-webster.com/rhymes/jjb/criticisms)
 - [word hippo](https://www.wordhippo.com/what-is/another-word-for/smart.html)
 - [Collins](https://www.collinsdictionary.com/dictionary/english-thesaurus/explore)
 - [Cambridge](https://dictionary.cambridge.org/dictionary/english-german/patent)
