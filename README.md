@@ -30,6 +30,7 @@
 - [One-Liners](https://www.youtube.com/watch?v=kfZOrjVXSms)
 - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
 - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
+- [Azure Function App Deployment](https://www.youtube.com/@thecodelabs/videos)
 
 
 ## Language Learning
