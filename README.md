@@ -31,6 +31,7 @@
 - [Filter Function](https://www.youtube.com/shorts/g9fIWtSexLs)
 - [Decorator](https://www.youtube.com/shorts/n-Rf3EJ_WaU)
 - [Azure Function App Deployment](https://www.youtube.com/@thecodelabs/videos)
+- [Azure Container Registry Entra permissions and role assignments overview](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-rbac-built-in-roles-overview?tabs=registries-configured-with-rbac-registry-abac-repository-permissions)
 
 
 ## Language Learning
