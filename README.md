@@ -63,7 +63,7 @@
 - [LEO](https://dict.leo.org/englisch-deutsch/wundersch%C3%B6n)
 - [dict.cc](https://www.dict.cc/?s=extraordinary&failed_kw=extrodinary)
 - [DWDS](https://www.dwds.de/wb/bed%C3%BCrfen)
-- [Reverso](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
+- [Reverso Synonym](https://synonyms.reverso.net/synonym-woerterbuch/de/gelingen)
 - [reverso context](https://context.reverso.net/%C3%BCbersetzung/)
 - [Merriam Webster](https://www.merriam-webster.com/thesaurus/revoke)
 - [English Adjektives](https://www.merriam-webster.com/rhymes/jjb/criticisms)
