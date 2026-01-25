@@ -11,7 +11,7 @@ Genitiv     | des schönen Mannes | der schönen Frau   | des schönen Kindes | 
 
 
 
-## B: Unestimmen Artikel
+## B: Unbestimmen Artikel
 
 
 Kasus       | maskulin             | feminin              | neutral              | Plural
