@@ -1,5 +1,5 @@
 
-## A: BESTIMMTEM ARTIKEL
+## A: Bestimmen Artikel
 
 
 Kasus       | maskulin           | feminin            | neutral            | Plural
@@ -11,7 +11,7 @@ Genitiv     | des schönen Mannes | der schönen Frau   | des schönen Kindes | 
 
 
 
-## B: UNBESTIMMTEM ARTIKEL 
+## B: Unestimmen Artikel
 
 
 Kasus       | maskulin             | feminin              | neutral              | Plural
@@ -23,7 +23,7 @@ Genitiv     | eines schönen Mannes | einer schönen Frau   | eines schönen Kin
 
 
 
-# C: OHNE ARTIKEL
+## C: Ohne Artikel
 
 
 Kasus       | maskulin         | feminin        | neutral          | Plural
