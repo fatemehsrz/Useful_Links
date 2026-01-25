@@ -1,5 +1,5 @@
 
-# A: NACH BESTIMMTEM ARTIKEL (der, die, das)
+## A: BESTIMMTEM ARTIKEL (
 
 
 Kasus       | maskulin           | feminin            | neutral            | Plural
@@ -11,7 +11,7 @@ Genitiv     | des schönen Mannes | der schönen Frau   | des schönen Kindes | 
 
 
 
-# B: NACH UNBESTIMMTEM ARTIKEL (ein, eine, ein) / NEGATIVARTIKEL (kein, keine)
+## B: UNBESTIMMTEM ARTIKEL 
 
 
 Kasus       | maskulin             | feminin              | neutral              | Plural
