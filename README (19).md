@@ -1,5 +1,5 @@
 
-## A: BESTIMMTEM ARTIKEL (
+## A: BESTIMMTEM ARTIKEL
 
 
 Kasus       | maskulin           | feminin            | neutral            | Plural
