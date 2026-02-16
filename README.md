@@ -120,6 +120,8 @@
 - [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
 - [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
+## Music
+[Belki Çok İncitmişim - Bilmezdim Dert Verir Sensizlik](https://www.youtube.com/watch?v=37f2hJCpfck&list=RD37f2hJCpfck&start_radio=1)
   
 ## Style
 - [Modern Home](https://www.youtube.com/shorts/xhRcolLABf4)
