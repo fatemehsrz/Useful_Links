@@ -35,7 +35,8 @@
 
 
 ## Language Learning
-
+- [Deutsch üben mit Spass](https://www.youtube.com/@Deutsch%C3%BCbenmitSpass/shorts)
+- [Daily Deutsch Lesson](https://www.youtube.com/@dailydeutschlesson/shorts)
 - [Deutsch mit Dana](https://www.youtube.com/@deutsch_mit_dana/shorts)
 - [Learn German Fast](https://www.youtube.com/shorts/o1_8X10G_lk)
 - [MT languages](https://www.youtube.com/@MTlanguage/shorts)
@@ -46,7 +47,6 @@
 - [Deutsche Alltagsgespräche](https://www.youtube.com/@DeutscheAlltagsgespr%C3%A4che)
 - [Einfach Kurze Geschichten](https://www.youtube.com/@deutschgeschichten1/shorts)
 - [Deutsch Dialoge - Humorvolles Deutschlernen](https://www.youtube.com/@DeutschDialogeLernen)
-- [Deutsch üben mit Spass](https://www.youtube.com/@Deutsch%C3%BCbenmitSpass/shorts)
 - [Deutsch mit Spass](https://www.youtube.com/@deutschmitspass/shorts)
 - [Almani ba Neda](https://www.youtube.com/@almanibaneda/shorts)
 - [Zaban Almani](https://www.youtube.com/@ZabanAlmani/shorts)
@@ -120,9 +120,7 @@
 - [Network Science](https://eravilaipnada.files.wordpress.com/2016/01/barabasi-2012.pdf)
 - [Euler's Formula](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
-## Music
-[Belki Çok İncitmişim - Bilmezdim Dert Verir Sensizlik](https://www.youtube.com/watch?v=37f2hJCpfck&list=RD37f2hJCpfck&start_radio=1)
-  
+
 ## Style
 - [Modern Home](https://www.youtube.com/shorts/xhRcolLABf4)
 - [Hair](https://www.youtube.com/shorts/azhsgAk16qg)
