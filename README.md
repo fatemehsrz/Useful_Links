@@ -37,6 +37,7 @@
 ## Language Learning
 - [Deutsch üben mit Spass](https://www.youtube.com/@Deutsch%C3%BCbenmitSpass/shorts)
 - [Daily Deutsch Lesson](https://www.youtube.com/@dailydeutschlesson/shorts)
+- [Learn German with Gunnu](https://www.youtube.com/@LearnGermanwithGunnu-s3r/shorts)
 - [Deutsch mit Dana](https://www.youtube.com/@deutsch_mit_dana/shorts)
 - [Learn German Fast](https://www.youtube.com/shorts/o1_8X10G_lk)
 - [MT languages](https://www.youtube.com/@MTlanguage/shorts)
